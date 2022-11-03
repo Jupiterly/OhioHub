@@ -1,0 +1,120 @@
+FEATURE LIST
+
+Script Features:
+  Custom Themes
+  Config Saving and Loading
+
+Arsenal:
+  Aimbot
+  Aimbot Team Check
+  Aimbot Aim Part
+  Aimbot Smoothing
+  Aimbot FOV Circle
+  Aimbot FOV Circle Size
+  Aimbot FOV Circle Thickness
+  Aimbot FOV Circle Color
+  Silent Aimbot
+  Silent Aimbot Aimpart
+  ESP
+  Name ESP
+  Name ESP Color
+  Box ESP
+  Box ESP Color
+  Box ESP Fill
+  Box ESP Fill Color
+  Health Bar ESP
+  Tracers ESP
+  Tracers ESP Color
+  Use Team Color For ESP
+  ESP Team Check
+  Custom Gun Color
+  Custom Arm Color
+  World Ambience Color
+  World Time Changer
+  Custom Crosshair
+  Custom Crosshair Size
+  Custom Crosshair Color
+  Inf Ammo
+  No Recoil/Spread
+  Rapid Fire
+  Always Auto Guns
+  Inf Jump
+  Fly
+  No Clip
+  Ohio Hub Chat Spam
+  Custom Message Chat Spam
+  Fov Changer
+  
+  
+Pistol 1v1:
+  Aimbot
+  Aimbot Aim Part
+  Aimbot Smoothing
+  Aimbot FOV Circle
+  Aimbot FOV Circle Size
+  Aimbot FOV Circle Thickness
+  Aimbot FOV Circle Color
+  ESP
+  Name ESP
+  Name ESP Color
+  Box ESP
+  Box ESP Color
+  Box ESP Fill
+  Box ESP Fill Color
+  Health Bar ESP
+  Tracers ESP
+  Tracers ESP Color
+  World Ambience Color
+  No-Clip
+  
+  
+Ninja Legends:
+  Anti AFK (not toggleable-built in by default)
+  Auto Swing
+  Auto Sell
+  Auto Hoop
+  Auto Buy New Sword
+  Auto Buy New Belt
+  Auto Buy New Skills
+  Auto Buy New Ranks
+  Auto Open Crystals
+  Select Crystal
+  ESP
+  Name ESP
+  Name ESP Color
+  Box ESP
+  Box ESP Color
+  Box ESP Fill
+  Box ESP Fill Color
+  Health Bar ESP
+  Tracers ESP
+  Tracers ESP Color
+  Unlock All Islands
+  Fly
+  No Clip
+  
+  
+Legends Of Speed:
+  Anti AFK (not toggleable-built in by default)
+  Auto Farm Orbs
+  Auto Farm Hoops
+  Auto Rebirth
+  Auto Open Crystals
+  Select Crystal
+  ESP
+  Name ESP
+  Name ESP Color
+  Box ESP
+  Box ESP Color
+  Box ESP Fill
+  Box ESP Fill Color
+  Health Bar ESP
+  Tracers ESP
+  Tracers ESP Color
+  World Ambience Color
+  Area Select
+  Teleport To Selected Area
+  Fly
+  No Clip
+  
+  
