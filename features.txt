@@ -68,6 +68,29 @@ Pistol 1v1:
   No-Clip
   
   
+No-Scope Arcade:
+  Aimbot
+  Aimbot Aim Part
+  Aimbot Smoothing
+  Aimbot FOV Circle
+  Aimbot FOV Circle Size
+  Aimbot FOV Circle Thickness
+  Aimbot FOV Circle Color
+  ESP
+  Name ESP
+  Name ESP Color
+  Box ESP
+  Box ESP Color
+  Box ESP Fill
+  Box ESP Fill Color
+  Health Bar ESP
+  Tracers ESP
+  Tracers ESP Color
+  Inf Jump
+  Fly
+  No Clip
+
+
 Ninja Legends:
   Anti AFK (not toggleable-built in by default)
   Auto Swing
