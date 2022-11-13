@@ -167,3 +167,40 @@ Flag Wars:
   Inf Ammo
   No Recoil/Spread
   Rapid Fire
+
+
+
+
+
+SIDE STUFF
+
+Universal:
+    Aimbot
+  Aimbot Team Check
+  Aimbot Aim Part
+  Aimbot Smoothing
+  Aimbot FOV Circle
+  Aimbot FOV Circle Size
+  Aimbot FOV Circle Thickness
+  Aimbot FOV Circle Color
+  Silent Aimbot
+  Silent Aimbot Aimpart
+  ESP
+  Name ESP
+  Name ESP Color
+  Box ESP
+  Box ESP Color
+  Box ESP Fill
+  Box ESP Fill Color
+  Health Bar ESP
+  Tracers ESP
+  Tracers ESP Color
+  Use Team Color For ESP
+  ESP Team Check
+  Inf Jump
+  Fly
+  No Clip
+  Walkspeed Changer
+  JumpPower Changer
+  
+  
