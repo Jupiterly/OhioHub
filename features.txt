@@ -169,7 +169,17 @@ Flag Wars:
   Rapid Fire
 
 
-
+Speed Run Simulator:
+  Anti AFK (not toggleable-built in by default)
+  Auto Orbs
+  Auto Click
+  Auto Rebirth
+  Select Egg
+  Auto Buy Egg
+  Select Area
+  Teleport to Area
+  Fly
+  No-Clip
 
 
 SIDE STUFF
