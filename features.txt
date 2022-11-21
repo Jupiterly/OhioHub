@@ -15,6 +15,10 @@ Arsenal:
   Aimbot FOV Circle Color
   Silent Aimbot
   Silent Aimbot Aimpart
+  Silent Aimbot FOV Circle
+  Silent Aimbot FOV Circle Size
+  Silent Aimbot FOV Circle Thickness
+  Silent Aimbot FOV Circle Color
   ESP
   Name ESP
   Name ESP Color
