@@ -193,7 +193,7 @@ Speed Run Simulator:
 SIDE STUFF
 
 Universal:
-    Aimbot
+  Aimbot
   Aimbot Team Check
   Aimbot Aim Part
   Aimbot Smoothing
@@ -201,8 +201,6 @@ Universal:
   Aimbot FOV Circle Size
   Aimbot FOV Circle Thickness
   Aimbot FOV Circle Color
-  Silent Aimbot
-  Silent Aimbot Aimpart
   ESP
   Name ESP
   Name ESP Color
