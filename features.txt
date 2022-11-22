@@ -19,6 +19,8 @@ Arsenal:
   Silent Aimbot FOV Circle Size
   Silent Aimbot FOV Circle Thickness
   Silent Aimbot FOV Circle Color
+  Shoot Through Walls
+  Auto Shoot
   ESP
   Name ESP
   Name ESP Color
