@@ -162,6 +162,8 @@ Flag Wars:
   Silent Aimbot FOV Circle Size
   Silent Aimbot FOV Circle Thickness
   Silent Aimbot FOV Circle Color
+  Head Hitbox Extender
+  Torso Hitbox Extender(buggy)
   ESP
   Name ESP
   Name ESP Color
